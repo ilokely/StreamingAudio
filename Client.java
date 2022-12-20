@@ -102,11 +102,6 @@ public class Client {
                 }
             }
         }
-
-        /* if (multimedia[frameC.getChoix()].endsWith(".JPG")) {
-        
-        } */
-
     }
 
 
